@@ -79,4 +79,34 @@ We suggest that you begin by typing:
 
 cd nextjs-dashboard
 pnpm run dev
-"# nextjs-dashboard-3" 
+"# nextjs-dashboard-3"
+
+# Creating a new project
+
+    npm install -g pnpm
+
+    npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
+
+# Running the development server
+
+    pnpm i
+
+    pnpm dev
+
+# layout
+
+# css
+
+# image
+
+# font
+
+    Recommended reading
+    There's a lot more to learn about these topics, including optimizing remote images and using local font files. If you'd like to dive deeper into fonts and images, see:
+
+    Image Optimization Docs
+    Font Optimization Docs
+    Improving Web Performance with Images (MDN)
+    Web Fonts (MDN)
+    How Core Web Vitals Affect SEO
+    How Google handles JavaScript throughout the indexing process
